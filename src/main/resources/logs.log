@@ -1,0 +1,65 @@
+2020-03-17 16:46:07 INFO  UserServiceImpl:48 - IN getAll - 1 users found
+2020-03-17 16:48:54 INFO  UserServiceImpl:48 - IN getAll - 1 users found
+2020-03-17 16:50:23 INFO  UserServiceImpl:48 - IN getAll - 1 users found
+2020-03-17 16:50:55 INFO  UserServiceImpl:48 - IN getAll - 1 users found
+2020-03-17 16:53:23 INFO  UserServiceImpl:48 - IN getAll - 1 users found
+2020-03-17 16:53:23 INFO  UserServiceImpl:48 - IN getAll - 1 users found
+2020-03-17 16:53:32 INFO  UserServiceImpl:48 - IN getAll - 1 users found
+2020-03-17 17:05:30 INFO  UserServiceImpl:39 - IN register - user: User NickGSTest successfully registered
+2020-03-17 17:06:27 INFO  UserServiceImpl:60 - IN findByUsername - user: User NickGS found by username: NickGS
+2020-03-17 17:11:50 INFO  UserServiceImpl:62 - IN findByUsername - user: User NickGS found by username: NickGS
+2020-03-17 17:11:50 WARN  UserServiceImpl:58 - IN findByUsername - no user found by username: NULL
+2020-03-17 17:13:40 INFO  UserServiceImpl:75 - IN findById - user: User NickGS found by id: 1
+2020-03-17 17:13:40 WARN  UserServiceImpl:71 - IN findById - no user found by id: -1
+2020-03-17 17:15:24 INFO  UserServiceImpl:89 - IN delete - user with id: 1 successfully deleted
+2020-03-17 17:17:16 INFO  UserServiceImpl:89 - IN delete - user with id: 1 successfully deleted
+2020-03-17 17:17:16 WARN  UserServiceImpl:83 - IN delete - no user found by id: -1
+2020-03-17 17:24:18 INFO  UserServiceImpl:62 - IN findByUsername - user: User NickGS found by username: NickGS
+2020-03-17 17:24:18 WARN  UserServiceImpl:58 - IN findByUsername - no user found by username: NULL
+2020-03-17 17:24:18 WARN  UserServiceImpl:58 - IN findByUsername - no user found by username: null
+2020-03-17 17:25:10 INFO  UserServiceImpl:75 - IN findById - user: User NickGS found by id: 1
+2020-03-17 17:25:10 WARN  UserServiceImpl:71 - IN findById - no user found by id: -1
+2020-03-17 17:25:10 WARN  UserServiceImpl:71 - IN findById - no user found by id: null
+2020-03-17 17:26:59 INFO  UserServiceImpl:75 - IN findById - user: User NickGS found by id: 1
+2020-03-17 17:26:59 WARN  UserServiceImpl:71 - IN findById - no user found by id: -1
+2020-03-17 17:26:59 WARN  UserServiceImpl:71 - IN findById - no user found by id: null
+2020-03-17 17:27:36 INFO  UserServiceImpl:41 - IN register - user: User NickGSTest successfully registered
+2020-03-17 17:27:36 INFO  UserServiceImpl:89 - IN delete - user with id: 1 successfully deleted
+2020-03-17 17:27:36 WARN  UserServiceImpl:83 - IN delete - no user found by id: -1
+2020-03-17 17:27:36 INFO  UserServiceImpl:49 - IN getAll - 3 users found
+2020-03-17 17:27:36 INFO  UserServiceImpl:75 - IN findById - user: User NickGS found by id: 1
+2020-03-17 17:27:36 WARN  UserServiceImpl:71 - IN findById - no user found by id: -1
+2020-03-17 17:27:36 WARN  UserServiceImpl:71 - IN findById - no user found by id: null
+2020-03-17 17:27:36 INFO  UserServiceImpl:62 - IN findByUsername - user: User NickGS found by username: NickGS
+2020-03-17 17:27:36 WARN  UserServiceImpl:58 - IN findByUsername - no user found by username: NULL
+2020-03-17 17:27:36 WARN  UserServiceImpl:58 - IN findByUsername - no user found by username: null
+2020-03-17 17:27:43 INFO  UserServiceImpl:41 - IN register - user: User NickGSTest successfully registered
+2020-03-17 17:27:43 INFO  UserServiceImpl:89 - IN delete - user with id: 1 successfully deleted
+2020-03-17 17:27:43 WARN  UserServiceImpl:83 - IN delete - no user found by id: -1
+2020-03-17 17:27:43 INFO  UserServiceImpl:49 - IN getAll - 3 users found
+2020-03-17 17:27:43 INFO  UserServiceImpl:75 - IN findById - user: User NickGS found by id: 1
+2020-03-17 17:27:43 WARN  UserServiceImpl:71 - IN findById - no user found by id: -1
+2020-03-17 17:27:43 WARN  UserServiceImpl:71 - IN findById - no user found by id: null
+2020-03-17 17:27:43 INFO  UserServiceImpl:62 - IN findByUsername - user: User NickGS found by username: NickGS
+2020-03-17 17:27:43 WARN  UserServiceImpl:58 - IN findByUsername - no user found by username: NULL
+2020-03-17 17:27:43 WARN  UserServiceImpl:58 - IN findByUsername - no user found by username: null
+2020-03-17 17:31:46 INFO  UserServiceImpl:41 - IN register - user: User NickGSTest successfully registered
+2020-03-17 17:31:47 INFO  UserServiceImpl:93 - IN delete - user with id: 1 successfully deleted
+2020-03-17 17:31:47 WARN  UserServiceImpl:87 - IN delete - no user found by id: -1
+2020-03-17 17:31:47 INFO  UserServiceImpl:49 - IN getAll - 3 users found
+2020-03-17 17:31:47 INFO  UserServiceImpl:75 - IN findById - user: User NickGS found by id: 1
+2020-03-17 17:31:47 WARN  UserServiceImpl:71 - IN findById - no user found by id: -1
+2020-03-17 17:31:47 WARN  UserServiceImpl:71 - IN findById - no user found by id: null
+2020-03-17 17:31:47 INFO  UserServiceImpl:62 - IN findByUsername - user: User NickGS found by username: NickGS
+2020-03-17 17:31:47 WARN  UserServiceImpl:58 - IN findByUsername - no user found by username: NULL
+2020-03-17 17:31:47 WARN  UserServiceImpl:58 - IN findByUsername - no user found by username: null
+2020-03-17 17:32:25 INFO  UserServiceImpl:41 - IN register - user: User NickGSTest successfully registered
+2020-03-17 17:32:25 INFO  UserServiceImpl:89 - IN delete - user with id: 1 successfully deleted
+2020-03-17 17:32:25 WARN  UserServiceImpl:83 - IN delete - no user found by id: -1
+2020-03-17 17:32:25 INFO  UserServiceImpl:49 - IN getAll - 3 users found
+2020-03-17 17:32:25 INFO  UserServiceImpl:75 - IN findById - user: User NickGS found by id: 1
+2020-03-17 17:32:25 WARN  UserServiceImpl:71 - IN findById - no user found by id: -1
+2020-03-17 17:32:25 WARN  UserServiceImpl:71 - IN findById - no user found by id: null
+2020-03-17 17:32:25 INFO  UserServiceImpl:62 - IN findByUsername - user: User NickGS found by username: NickGS
+2020-03-17 17:32:25 WARN  UserServiceImpl:58 - IN findByUsername - no user found by username: NULL
+2020-03-17 17:32:25 WARN  UserServiceImpl:58 - IN findByUsername - no user found by username: null
